@@ -6,11 +6,11 @@ body {
   flex-wrap: wrap;
   height: 100vh;
   justify-content: center;
+  align-content: center;
   font-family: "Outfit", sans-serif;
   font-size: 15px;
 }
 .card {
-  align-self: center;
   background: hsl(0, 0%, 100%);
   width: 288px;
   border-radius: 20px;
